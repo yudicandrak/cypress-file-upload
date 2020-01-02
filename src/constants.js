@@ -24,6 +24,7 @@ export const FILE_EXTENSION = Object.freeze({
   ZIP: 'zip',
   PDF: 'pdf',
   VCF: 'vcf',
+  XLSX: 'xlsx',
 });
 
 export const ENCODING = Object.freeze({
